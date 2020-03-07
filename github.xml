@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="58f92142-f68c-4f2b-82e5-58ea2a1f7640" name="razlands">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
